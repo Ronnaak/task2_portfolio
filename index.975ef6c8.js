@@ -27088,11 +27088,11 @@ var _stylesCss = require("./styles.css");
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
     name: "Anurag prajapati",
-    title: "Web Designer & Content Creator",
-    email: "alex@example.com",
-    gitHub: "microsoft",
-    instagram: "microsoft",
-    linkedIn: "satyanadella",
+    title: "Frontend Devloper",
+    email: "anuragprajapati053@gmail.com",
+    gitHub: "Ronnaak",
+    instagram: "anurag.__.p",
+    linkedIn: "anurag-prajapati",
     medium: "",
     twitter: "microsoft",
     youTube: "Code"
@@ -28632,7 +28632,7 @@ const Home = ({ name , title  })=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                 className: "background",
-                src: (0, _womanWithTabletJpgDefault.default),
+                src: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdaily.sevenfifty.com%2Fhow-to-land-your-first-portfolio-manager-job%2F&psig=AOvVaw2e98KimAnzVlV9ATmN6B0U&ust=1720192687260000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJC2x6zXjYcDFQAAAAAdAAAAABAE",
                 alt: ""
             }, void 0, false, {
                 fileName: "src/Components/Home.jsx",
